@@ -1,0 +1,4 @@
+días = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
+
+días[3]='Jue'
+print (días[3])
