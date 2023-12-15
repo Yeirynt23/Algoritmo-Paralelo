@@ -40,7 +40,7 @@ class CajeroAutomatico:
         print("1. Retirar efectivo")
         print("2. Ingresar efectivo")
         print("3. Pagar factura")
-        print("    a. Factura de servicios públicos")
+        print("    a. Pago de préstamo")
         print("    b. Factura de tarjeta de crédito")
         print("4. Transferir fondos")
 
