@@ -1,6 +1,0 @@
-Los clientes son los siguientes:
-cliente1 = Cliente Jerry Núñez, número de cuenta 4585548615493128, dinero en la cuenta 50000, contraseña de la cuenta 1234)
-cliente2 = Cliente(Melvis Taveras, número de cuenta 8549317594261895, dinero en la cuenta 300000,  contraseña de la cuenta 4567)
-cliente3 = Cliente(Evelina Luciano, número de cuenta 25439415823154951, dinero en la cuenta 500000, contraseña de la cuenta 7891)
-
-En el transcurso le hice una pequeña interfaz probando algunos códigos, le falta mejoría. 
