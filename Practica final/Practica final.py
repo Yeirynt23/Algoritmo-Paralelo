@@ -78,7 +78,7 @@ class CajeroAutomatico:
         for cliente in self.clientes:
             if cliente.numero_cuenta == numero_cuenta:
                 # Supongamos que cada cliente tiene solo una cuenta
-                return Cuenta(numero_cuenta, 0, 0, "Corriente")  # Puedes ajustar los valores iniciales según sea necesario
+                return Cuenta(numero_cuenta, 0, 0, "Corriente")  
 
 
     def pagar_factura(self, cuenta, info_factura):
